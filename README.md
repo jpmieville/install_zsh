@@ -16,6 +16,9 @@ https://www.tecmint.com/change-console-fonts-in-ubuntu-server/
 
 
 vim ~/.zshrc
+powerlevel10k/powerlevel10k
+
 plugins=(git zsh-autosuggestions autojump zsh-syntax-highlighting)
 plugins=(git zsh-completions zsh-autosuggestions zsh-syntax-highlighting)
 autoload -U compinit && compinit
+
